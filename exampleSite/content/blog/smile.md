@@ -5,7 +5,7 @@ description = "Mood boosting mutts"
 image = "/images/b66ef071-0c75-4cf1-bb44-dbe91bd1c467.jpeg"
 tags = []
 title = "Smile!"
-type = "Post"
+type = "post"
 
 +++
 Woof woof blah blah blah
