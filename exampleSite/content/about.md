@@ -2,7 +2,7 @@
 title: About
 date: 2021-08-21T23:00:00+00:00
 description: Playful pooches, peace of mind
-image: images/author.jpg
+image: images/running_dogs.jpg
 
 ---
 ### Hello, I’m **Jules**
