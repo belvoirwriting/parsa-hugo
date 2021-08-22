@@ -1,7 +1,7 @@
 ---
 title: About
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+date: 2021-08-21T23:00:00+00:00
+description: Playful pooches, peace of mind
 image: images/author.jpg
 
 ---
