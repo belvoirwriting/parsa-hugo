@@ -6,11 +6,6 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Jules | dog walking and daycare"
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
