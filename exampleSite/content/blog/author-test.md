@@ -5,7 +5,7 @@ description = "Testing what the author field looks like"
 image = "/images/c9e4ce14-cf86-4840-94ef-0bc96e654f9d.jpeg"
 tags = []
 title = "Author test"
-type = ""
+type = "post"
 
 +++
 Who wrote this?
