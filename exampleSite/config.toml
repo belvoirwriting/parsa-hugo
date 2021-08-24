@@ -16,12 +16,12 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Granby"
+address = "Granby, walking dogs from all over the Vale of Belvoir - Redmile, Langar, Plungar, Bottesford"
 author = "Jules"
 author_image = "images/banner-img.png"
 bio = "I’m a dog walker in the Vale of Belvoir"
 contact_form_action = "#"
-copyright = "Copyright &copy; 2021 Jules. Site theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2021 Jules"
 description = "Dog walking and daycare in the Vale of Belvoir"
 email = "julesdogwalks@gmail.com"
 home = "Home"
@@ -31,7 +31,7 @@ mobile = "+90 000 333 22"
 preloader = true
 search = true
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
@@ -65,14 +65,11 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/julesdogwalks"
+[[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://instagram.com/julesdogwalks"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-github"
 link = "#"
