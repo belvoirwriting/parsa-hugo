@@ -6,8 +6,11 @@ image: images/Moms_New_Border_Collie_Puppy_Lee_by_kate_gardiner.jpg
 
 ---
 **Walk only**
-30 minutes - £8
+
+30 minutes - £8 
+
 60 minutes - £14
 
 **Full day care**
+
 TBC
