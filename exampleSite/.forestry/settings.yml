@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: exampleSite/content/services.md
-  label: Services
-  match: "**/*"
 - type: directory
   path: exampleSite/content/blog
   label: Post
@@ -18,6 +14,9 @@ sections:
 - type: document
   path: exampleSite/content/about.md
   label: About
+- type: document
+  path: exampleSite/content/services.md
+  label: Services
 - type: document
   path: exampleSite/content/contact.md
   label: Contact
