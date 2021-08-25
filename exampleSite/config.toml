@@ -10,13 +10,17 @@ name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
+name = "Services"
+url = "services"
+weight = 2
+[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Granby, walking dogs from all over the Vale of Belvoir - Redmile, Langar, Plungar, Bottesford"
+address = "Based in Granby, walking dogs from all over the Vale of Belvoir - Redmile, Langar, Plungar, Bottesford"
 author = "Jules"
 author_image = "images/banner-img.png"
 bio = "I’m a dog walker in the Vale of Belvoir"
