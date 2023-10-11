@@ -1,12 +1,10 @@
 ---
 title: About
 date: 2021-08-21T23:00:00.000+00:00
-description: Playful pooches, peace of mind
+description: we write words
 image: images/author.jpg
 
 ---
-### Hello, I’m **Jules**
+### Hello, we're **writers**
 
-I am an independent dog walker in the Vale Of Belvoir. I also offer day care, over night stays and pop in visits,  tailored to meet your dog's individual needs.
-
-I have a dog of my own called Ernie.  He is a friendly and lively red cocker spaniel who loves to socialise with other dogs and is a much loved member of the family! 
+ we meet on the second Tuesday of every month
